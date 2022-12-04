@@ -8,13 +8,17 @@ This Custom Script I produced is out of curiosity to track certain instance if i
 
 ## Pre-requisites
 <ol>
-  <li> AWS ACCOUNT      ✅ </li>
+  <li>AWS ACCOUNT      ✅ </li>
   <li>AWS ACCESS ID     ✅ </li>
   <li>AWS SECRET KEY    ✅ </li>
   <li>SNS Topic with Subscription via Email ✅ </li>
   <li>Running EC2 Instance ✅ </li>
 </ol>
 
+## Features
+
+Get CPU Utilization Metric of an EC2 Instance
+Send the Metrics into Email :)
 ## Running the the script through AWS lambda
 <ol>
     <li>Zip the source file</li>
